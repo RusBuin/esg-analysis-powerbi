@@ -38,13 +38,13 @@ esg-analysis-powerbi/
 
 ## Companies & Data Sources
 
-| Company | ESG Report | Years |
-|---|---|---|
-| AUDI AG | Sustainability Report 2024 | 2022–2024 |
-| Hyundai Motor Company (HMC) | Sustainability Report 2025 | 2022–2024 |
-| ILJIN Slovakia | CSR Report 2024 | 2022–2024 |
-| ŠKODA Auto | ESG Report 2024 | 2024 |
-| SUNGWOO HITECH | ESG Operation Report 2024 | 2022–2024 |
+| Company | ESG Report |
+|---|---|
+| AUDI AG | Sustainability Report 2024 |
+| Hyundai Motor Company (HMC) | Sustainability Report 2025 |
+| ILJIN Slovakia | CSR Report 2024 |
+| ŠKODA Auto | ESG Report 2024 |
+| SUNGWOO HITECH | ESG Operation Report 2024 |
 
 ---
 
