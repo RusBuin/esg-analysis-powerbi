@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Power BI binary (large)
+*.pbix
+
+# Extracted text files (generated)
+esg_extracted.txt
+*_extracted.txt
+*_text.txt
+
+# Per-company CSV duplicates (xlsx versions kept in data/processed/)
+audi_core.csv
+hmc_core.csv
+iljin_core.csv
+skoda_core.csv
+sungwoo_core.csv
